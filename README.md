@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bheemesh Peddigari  
+# Hi, I'm Bheemesh Peddigari  
 
 🚀 **Cloud Big Data Architect & Engineer** | 16+ years of IT experience | Azure | Databricks | ADF | Snowflake | Kafka-Debezium | SQL | Python  
 
